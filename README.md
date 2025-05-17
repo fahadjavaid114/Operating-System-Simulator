@@ -9,9 +9,9 @@ This is a console-based **Operating System Simulator** developed in **C++** as p
   
 ## 💻 Requirements
 - Linux or Ubuntu (or WSL on Windows)
-- g++ compiler
+- gcc compiler
 
 ## 🔧 How to Compile and Run
 ```bash
-g++ main.cpp -o os_simulator
+gcc main.cpp -o os_simulator
 ./os_simulator
